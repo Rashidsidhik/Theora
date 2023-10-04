@@ -109,4 +109,4 @@ Contributions to Theora are welcome! If you have any bug reports, feature reques
 
 ## Contact
 
-For any inquiries or support, please reach out to our team at [riyasiqbal10@gmail.com](mailto:riyasiqbal10@gmail.com).
+For any inquiries or support, please reach out to our team at [rashidps44@gmail.com](mailto:rashidps44@gmail.com).
